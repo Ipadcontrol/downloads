@@ -1,4 +1,0 @@
-downloads
-=========
-
-Downloads New Apps
